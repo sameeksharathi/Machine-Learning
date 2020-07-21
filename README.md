@@ -6,3 +6,4 @@ Algorithms of Machine Learning are implemented using various datasets (From kagg
 3. Classified Data
 4. Kyphosis
 5. Breast Cancer
+6. MNIST Using KNN

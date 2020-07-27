@@ -1,9 +1,10 @@
 # Machine-Learning
 
 Algorithms of Machine Learning are implemented using various datasets (From kaggle also).
-1. USA Housing
-2. Titanic Dataset
-3. Classified Data
-4. Kyphosis
-5. Breast Cancer
-6. MNIST Using KNN
+1. USA Housing - LinearRegression
+2. Titanic Dataset - Logistic Regression
+3. Classified Data - K Nearest Neighbors
+4. Kyphosis - Decision Trees and Random Forests
+5. Breast Cancer - Support Vector Machine 
+6. MNIST - K Nearest Neighbors
+7. ECommerce Customers - Linear Regression

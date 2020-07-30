@@ -9,3 +9,4 @@ Algorithms of Machine Learning are implemented using various datasets (From kagg
 6. MNIST - K Nearest Neighbors
 7. ECommerce Customers - Linear Regression
 8. make_blobs - K Means Clustering
+9. make_blobs - Logistic Regression

@@ -4,7 +4,7 @@ Algorithms of Machine Learning are implemented using various datasets (From kagg
 1. USA Housing - LinearRegression
 2. Titanic Dataset - Logistic Regression
 3. Classified Data - K Nearest Neighbors
-4. Kyphosis - Decision Trees and Random Forests
+4. <a href = "https://github.com/sameeksharathi/Machine-Learning/tree/master/Decision%20Trees%20and%20Random%20Forests%20-%20Kyphosis">Kyphosis</a> - Decision Trees and Random Forests
 5. Breast Cancer - Support Vector Machine 
 6. MNIST - K Nearest Neighbors
 7. ECommerce Customers - Linear Regression

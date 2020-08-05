@@ -11,3 +11,4 @@ Algorithms of Machine Learning are implemented using various datasets (From kagg
 8. make_blobs - K Means Clustering
 9. make_blobs - Logistic Regression
 10. <a href = "https://github.com/sameeksharathi/Machine-Learning/tree/master/Spam%20Email%20Detection%20using%20Naive%20Bayes">Spam Email Detection - Naive Bayes</a>
+11. <a href = "https://github.com/sameeksharathi/Machine-Learning/tree/master/Titanic%20Dataset%20-%20Decision%20Trees">Titanic Dataset - Decision Trees</a>

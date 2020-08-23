@@ -8,7 +8,7 @@ Algorithms of Machine Learning are implemented using various datasets (From kagg
 5. Breast Cancer - Support Vector Machine 
 6. MNIST - K Nearest Neighbors
 7. ECommerce Customers - Linear Regression
-8. make_blobs - K Means Clustering
+8. <a href = "https://github.com/sameeksharathi/Machine-Learning/tree/master/K%20Means%20Clustering%20-%20make_blobs">make_blobs - K Means Clustering</a>
 9. make_blobs - Logistic Regression
 10. <a href = "https://github.com/sameeksharathi/Machine-Learning/tree/master/Spam%20Email%20Detection%20using%20Naive%20Bayes">Spam Email Detection - Naive Bayes</a>
 11. <a href = "https://github.com/sameeksharathi/Machine-Learning/tree/master/Titanic%20Dataset%20-%20Decision%20Trees">Titanic Dataset - Decision Trees</a>

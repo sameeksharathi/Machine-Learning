@@ -17,7 +17,7 @@ Algorithms of Machine Learning are implemented using various datasets (From kagg
 
 ## Logistic Regression
 
-1. <a href = https://github.com/sameeksharathi/Machine-Learning/tree/master/Logistic%20Regression%20-%20make_blobs">make_blobs - Logistic Regression</a>
+1. <a href = "https://github.com/sameeksharathi/Machine-Learning/tree/master/Logistic%20Regression%20-%20make_blobs">make_blobs - Logistic Regression</a>
 2. <a href = "https://github.com/sameeksharathi/Machine-Learning/tree/master/Logistic%20Regression%20-%20Titanic%20dataset">Titanic Dataset - Logistic Regression</a>
 
 
@@ -25,7 +25,7 @@ Algorithms of Machine Learning are implemented using various datasets (From kagg
 
 ## K Nearest Neighbors
 
-1. <a href = 'https://github.com/sameeksharathi/Machine-Learning/tree/master/K%20Nearest%20Neighbors%20-%20MNIST>MNIST - K Nearest Neighbors</a>
+1. <a href = "https://github.com/sameeksharathi/Machine-Learning/tree/master/K%20Nearest%20Neighbors%20-%20MNIST">MNIST - K Nearest Neighbors</a>
 2. <a href="https://github.com/sameeksharathi/Machine-Learning/tree/master/K%20Nearest%20Neighbors%20-%20Classified%20Data">Classified Data - K Nearest Neighbors</a>
 
 

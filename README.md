@@ -38,10 +38,11 @@ Algorithms of Machine Learning are implemented using various datasets (From kagg
 
 <br>
 
-## Decision Trees and Random Forests
+## Decision Trees and Random Forest
 
 1. <a href = "https://github.com/sameeksharathi/Machine-Learning/tree/master/Titanic%20Dataset%20-%20Decision%20Trees">Titanic Dataset - Decision Trees</a>
-2. <a href = "https://github.com/sameeksharathi/Machine-Learning/tree/master/Decision%20Trees%20and%20Random%20Forests%20-%20Kyphosis">Kyphosis - Decision Trees and Random Forests</a>
+2. <a href = "https://github.com/sameeksharathi/Machine-Learning/tree/master/Decision%20Trees%20and%20Random%20Forests%20-%20Kyphosis">Kyphosis - Decision Trees and Random Forest</a>
+3. <a href = "https://github.com/sameeksharathi/Machine-Learning/tree/master/Loan%20Dataset%20-%20Decision%20Trees%20and%20Random%20Forest">Load Dataset - Decision Trees and Random Forests</a>
 
 
 <br>

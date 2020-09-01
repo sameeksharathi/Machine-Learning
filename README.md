@@ -69,4 +69,4 @@ Algorithms of Machine Learning are implemented using various datasets (From kagg
 
 ## Projects
 
-1. <a href = "">Movie Recommender System</a>
+1. <a href = "https://github.com/sameeksharathi/Machine-Learning/tree/master/Movie%20Recommender%20System%20-%20Text%20Processing">Movie Recommender System</a>
